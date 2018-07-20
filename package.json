@@ -1,0 +1,22 @@
+{
+  "name": "user-magic-manager",
+  "version": "0.0.0",
+  "description": "user-service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niji-ateixeira/user-magic-manager.git"
+  },
+  "author": "Teixeira Alexandre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niji-ateixeira/user-magic-manager/issues"
+  },
+  "homepage": "https://github.com/niji-ateixeira/user-magic-manager#readme",
+  "dependencies": {
+    "hapi": "^17.5.2"
+  }
+}
